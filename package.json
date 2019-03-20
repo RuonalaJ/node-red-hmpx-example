@@ -1,0 +1,12 @@
+{
+    "name": "node-red-hmpx-example",
+    "description": "Example flow for reading Vaisala Indigo HMPx humidity and temperature probes",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
